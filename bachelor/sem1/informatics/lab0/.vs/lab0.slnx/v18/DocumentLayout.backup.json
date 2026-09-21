@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\lab\\Labs_PSTU_Shushpanov\\bachelor\\sem1\\informatics\\lab0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40F946D5-89B8-4621-A0FE-624B8424F9C6}|lab0.vcxproj|C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\lab\\Labs_PSTU_Shushpanov\\bachelor\\sem1\\informatics\\lab0\\lab0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40F946D5-89B8-4621-A0FE-624B8424F9C6}|lab0.vcxproj|solutionrelative:lab0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab0.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\lab\\Labs_PSTU_Shushpanov\\bachelor\\sem1\\informatics\\lab0\\lab0.cpp",
+              "RelativeDocumentMoniker": "lab0.cpp",
+              "ToolTip": "C:\\Users\\\u0418\u0440\u0438\u043D\u0430\\Desktop\\lab\\Labs_PSTU_Shushpanov\\bachelor\\sem1\\informatics\\lab0\\lab0.cpp",
+              "RelativeToolTip": "lab0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-21T13:21:11.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
