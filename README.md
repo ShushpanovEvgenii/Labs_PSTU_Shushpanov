@@ -10,4 +10,4 @@
 
 💡
 
-![картинка](https://avatars.mds.yandex.net/i?id=0e87b50dc2dc1b0d346fb2388e8e4774_sr-4432047-images-thumbs&n=13)
+![картинка](https://i.pinimg.com/originals/dc/6b/4f/dc6b4f256394f616e7eddeeea8929647.webp?nii=t)
