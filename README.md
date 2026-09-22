@@ -10,4 +10,4 @@
 
 💡
 
-![картинка](https://i.pinimg.com/originals/dc/6b/4f/dc6b4f256394f616e7eddeeea8929647.webp?nii=t)
+![картинка](https://i.pinimg.com/originals/2c/79/02/2c79021bcdd8078780e4b871e0e3c56d.jpg)
