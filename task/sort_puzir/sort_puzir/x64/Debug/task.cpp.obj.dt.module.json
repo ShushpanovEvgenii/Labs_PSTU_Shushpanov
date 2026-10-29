@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "sort_puzir\\x64\\Debug\\task.obj",
+            "outputs": [
+                "sort_puzir\\x64\\Debug\\task.cpp.obj.dt.module.json",
+                "sort_puzir\\x64\\Debug\\task.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

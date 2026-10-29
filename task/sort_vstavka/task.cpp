@@ -1,0 +1,29 @@
+#include <iostream>
+#include <clocale>
+#include <stdlib.h>
+using namespace std;
+
+int main() {
+    setlocale(LC_ALL, ".UTF8");
+    int A[10] = { -5,1,7,5,9,10,3,-8,0,11 };
+    cout << "Неотсортированный массив:";
+    for (int i = 0;i < 10;i++)
+    {
+        cout << A[i] << " ";
+    }
+    cout << endl;
+    for (int i = 1;i < 10;i++)
+    {
+        for (int j = i;j > 0 && A[j] < A[j - 1];j--)
+        {
+            int y = A[j];
+            A[j] = A[j - 1];
+            A[j - 1] = y;
+        }
+    }
+    cout << "Отсортированный массив: ";
+    for (int i = 0; i < 10; i++)
+        cout << A[i] << " ";
+    cout << endl;
+    return 0;
+}
