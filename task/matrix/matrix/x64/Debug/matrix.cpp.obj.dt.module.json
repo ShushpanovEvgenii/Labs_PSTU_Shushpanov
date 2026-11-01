@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "matrix\\x64\\Debug\\matrix.obj",
+            "outputs": [
+                "matrix\\x64\\Debug\\matrix.cpp.obj.dt.module.json",
+                "matrix\\x64\\Debug\\matrix.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

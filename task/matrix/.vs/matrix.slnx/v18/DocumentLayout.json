@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zenas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab\\Labs_PSTU_Shushpanov\\task\\matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{873ADC45-D853-4631-AF7E-32C974B33B41}|matrix.vcxproj|C:\\Users\\zenas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab\\Labs_PSTU_Shushpanov\\task\\matrix\\matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{873ADC45-D853-4631-AF7E-32C974B33B41}|matrix.vcxproj|solutionrelative:matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\zenas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab\\Labs_PSTU_Shushpanov\\task\\matrix\\matrix.cpp",
+              "RelativeDocumentMoniker": "matrix.cpp",
+              "ToolTip": "C:\\Users\\zenas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab\\Labs_PSTU_Shushpanov\\task\\matrix\\matrix.cpp",
+              "RelativeToolTip": "matrix.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-01T10:15:47.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

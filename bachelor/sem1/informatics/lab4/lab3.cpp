@@ -7,7 +7,6 @@ int main()
 	setlocale(LC_ALL,".UTF8");
 	int a[100];
 	int n;
-	int m[100];
 	cout << "Введите длину массива: ";
 	cin >> n;
 	for (int i = 0;i < n;i++)
