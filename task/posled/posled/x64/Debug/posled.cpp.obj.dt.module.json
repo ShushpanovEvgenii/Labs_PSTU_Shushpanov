@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "posled\\x64\\Debug\\posled.obj",
+            "outputs": [
+                "posled\\x64\\Debug\\posled.cpp.obj.dt.module.json",
+                "posled\\x64\\Debug\\posled.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

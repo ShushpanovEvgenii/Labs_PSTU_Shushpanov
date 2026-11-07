@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="posled.vcxproj" Id="915e6252-b9f6-43c9-a97c-951ac7322360" />
+</Solution>
