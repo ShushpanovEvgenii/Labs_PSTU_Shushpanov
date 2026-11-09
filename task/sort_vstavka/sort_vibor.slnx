@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="sort_vibor.vcxproj" />
+  <Project Path="sort_vibor.vcxproj" Id="5ab5179b-8c19-4986-96be-6fbfcadad3c1" />
 </Solution>

@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="sort_puzir.vcxproj" />
+  <Project Path="sort_puzir.vcxproj" Id="426dc8a2-03e7-4e7d-93d8-99eb958cb738" />
 </Solution>

@@ -6,10 +6,6 @@ using namespace std;
 int main() {
     setlocale(LC_ALL, ".UTF8");
     int A[10] = { -5,1,7,5,9,10,3,-8,0,11 };
-    cout << "Неотсортированный массив: ";
-    for (int i = 0; i < 10; i++)
-        cout << A[i] << " ";
-    cout << endl;
     for (int i = 0;i < 10;i++)
     {
         int min = i;
