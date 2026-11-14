@@ -5,10 +5,10 @@ using namespace std;
 
 int main() {
     setlocale(LC_ALL, ".UTF8");
-    int A[10] = { -5, 1, 7, 5, 9, 10, 3, -8, 0, 11 };
-    for (int i = 0;i < 9;i++)
+    int A[10] = { -5, 1, 7, 5, 9, 10, 3, -8, 0, -16 };
+    for (int i = 0;i < 10;i++)
     {
-        for (int j = 0;j < 8;j++)
+        for (int j = 0;j < 9;j++)
         {
             if (A[j] > A[j + 1])
             {

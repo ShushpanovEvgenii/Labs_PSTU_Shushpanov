@@ -16,5 +16,6 @@
 | 3 | [lab3](./bachelor/sem1/informatics/lab3) | 03.11.2026 | ✅ |
 | 4 | [lab4](./bachelor/sem1/informatics/lab4) | 03.11.2026 | ✅ |
 | 5 | [lab6](./bachelor/sem1/informatics/lab6) | 11.11.2026 | ✅ |
+| 6 | [lab7](./bachelor/sem1/informatics/lab7) | 17.11.2026 | ✅ |
 
 ![картинка](https://i.pinimg.com/originals/2c/79/02/2c79021bcdd8078780e4b871e0e3c56d.jpg)
