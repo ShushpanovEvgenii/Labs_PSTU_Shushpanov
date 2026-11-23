@@ -12,7 +12,7 @@ void coutt(int* a, int n)
 
 void resize(int*& a, int n, int newSize)
 {
-	int* b = new int[newSize] {};
+	int* b = new (nothrow) int[newSize] {};
 	int count = n;
 	if (newSize < n) count = newSize;
 	for (int i = 0;i < count;i++)

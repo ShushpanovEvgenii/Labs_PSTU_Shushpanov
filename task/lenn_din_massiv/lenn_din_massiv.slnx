@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="lenn_din_massiv.vcxproj" />
+  <Project Path="lenn_din_massiv.vcxproj" Id="0fc32538-5308-4b75-85df-bb581450ba33" />
 </Solution>
