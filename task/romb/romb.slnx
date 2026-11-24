@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="romb.vcxproj" />
+  <Project Path="romb.vcxproj" Id="3f946986-31b9-4c7b-ba3c-926b28709669" />
 </Solution>
