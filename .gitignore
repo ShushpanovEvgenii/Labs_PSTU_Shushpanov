@@ -1,3 +1,4 @@
+
 # Prerequisites
 *.d
 
@@ -10,6 +11,7 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.ipch
 
 # Linker files
 *.ilk
@@ -22,7 +24,6 @@
 *.dylib
 *.dll
 *.so.*
-
 
 # Fortran module files
 *.mod
@@ -43,6 +44,10 @@
 build/
 Build/
 build-*/
+Debug/
+Release/
+x64/
+x86/
 
 # CMake generated files
 CMakeFiles/
@@ -58,12 +63,20 @@ compile_commands.json
 *.bak
 *.swp
 
+# Visual Studio
+.vs/
+**/.vs/
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
 # vcpkg
 vcpkg_installed/
 
-# debug information files
+# Debug information files
 *.dwo
 
-# test output & cache
+# Test output & cache
 Testing/
 .cache/
