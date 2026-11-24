@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "romb\\x64\\Debug\\romb.obj",
+            "outputs": [
+                "romb\\x64\\Debug\\romb.cpp.obj.dt.module.json",
+                "romb\\x64\\Debug\\romb.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

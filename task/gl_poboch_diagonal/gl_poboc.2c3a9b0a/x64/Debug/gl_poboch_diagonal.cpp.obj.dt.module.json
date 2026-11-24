@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "gl_poboc.2c3a9b0a\\x64\\Debug\\gl_poboch_diagonal.obj",
+            "outputs": [
+                "gl_poboc.2c3a9b0a\\x64\\Debug\\gl_poboch_diagonal.cpp.obj.dt.module.json",
+                "gl_poboc.2c3a9b0a\\x64\\Debug\\gl_poboch_diagonal.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

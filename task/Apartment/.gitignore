@@ -1,0 +1,39 @@
+# Visual Studio artifacts
+
+# Visual Studio cache/options directory
+.vs/
+
+# Build output folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Build logs / intermediate files
+*.tlog
+*.log
+*.lastbuildstate
+*.recipe
+*.command
+
+# Precompiled headers cache
+*.ipch
+
+# Database/index files
+*.idb
+*.pdb
+*.db
+
+# User-specific project files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IntelliSense / index files
+*.vsidx
+
+# Backup files
+*.bak
